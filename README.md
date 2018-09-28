@@ -1,6 +1,6 @@
 # Software-Lab
 
-Assignment-1 : Latex
+Assignment-1 : Latex <br/>
 Assignment-2 : C programming + Linux commands
 Assignment-3 : Advance C + gcc + gdb + Doxygen
 Assignment-4 : File Handling in C + Makefile
